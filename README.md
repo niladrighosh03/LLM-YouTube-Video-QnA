@@ -27,8 +27,8 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/ai-video-qa.git
-   cd ai-video-qa
+   git clone https://github.com/your-username/LLM-YouTube-Video-QnA.git
+   cd LLM-YouTube-Video-QnA
    ```
 
 2. **Install Dependencies**
@@ -38,12 +38,12 @@ Ensure you have the following installed:
 
 3. **Run the Backend (Flask App)**
    ```sh
-   python gemini3.py
+   python q&a.py
    ```
 
 4. **Run the Frontend (Streamlit App)**
    ```sh
-   streamlit run ui3.py
+   streamlit run ui.py
    ```
 
 ## Usage
